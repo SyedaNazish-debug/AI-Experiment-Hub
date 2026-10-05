@@ -1,4 +1,4 @@
-\# AI Experiment Hub
+# AI Experiment Hub
 
 
 
@@ -6,11 +6,11 @@ An expandable learning and experimentation platform combining practical work in:
 
 
 
-\- Digital Image Processing
+- Digital Image Processing
 
-\- Natural Language Processing
+- Natural Language Processing
 
-\- Neural Networks
+- Neural Networks
 
 
 
@@ -18,7 +18,7 @@ The project is designed to grow over time as new AI and ML concepts are learned 
 
 
 
-\## Current Status
+## Current Status
 
 
 
@@ -26,27 +26,27 @@ The project is designed to grow over time as new AI and ML concepts are learned 
 
 
 
-\## Planned Modules
+## Planned Modules
 
 
 
-\- Digital Image Processing
+- Digital Image Processing
 
-\- Natural Language Processing
+- Natural Language Processing
 
-\- Neural Networks
+- Neural Networks
 
-\- Machine Learning
+- Machine Learning
 
-\- Computer Vision
+- Computer Vision
 
-\- Deep Learning
+- Deep Learning
 
-\- Generative AI
+- Generative AI
 
 
 
-\## Project Philosophy
+## Project Philosophy
 
 
 
